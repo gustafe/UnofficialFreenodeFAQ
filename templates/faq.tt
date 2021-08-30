@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>[% meta.page_title %]</title>
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style>
+    body {font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+background: #fdf6e3;   
+}
+  </style>
+</head>
+<body>
+<h1 style="text-align:center">[% meta.page_title %]</h1>
+[% USE Markdown -%]
+[% FILTER markdown %]
+
+[% INCLUDE faq.md %]
+
+[% END %]
+<hr />
+<address>
+<p>&copy; Gustaf Erikson 2021. All rights reserved.</p>
+<p>This page was created on [% meta.generate_time -%].</p>
+</address>
+</body>
