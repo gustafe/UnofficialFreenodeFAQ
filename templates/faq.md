@@ -1,6 +1,6 @@
 ## This FAQ is deprecated
 
-Since 2021-08-10, the network formerly known as Freenode has
+Since 10 Aug 2021, the network formerly known as Freenode has
 implemented [radical changes](https://freenode.net/news/on-power-to-the-people) that have led to me dissociating with the network. I still have an account but
 there's no longer any interest for me to continue to monitor changes as they are announced ad-hoc in the `#freenode` channel. 
 
@@ -18,7 +18,7 @@ The previous version of `ircd` was [ircd-seven](https://github.com/freenode/ircd
 
 The previous versions of services was [Atheme](https://atheme.github.io/atheme.html). The current one is [Anope](https://www.anope.org/).
 
-__Since 2021-07-29 it is mandatory to connect via SSL and to authenticate with [SASL](https://freenode.net/kb/answer/sasl) on Freenode. This requires a registered account.__
+__Since 29 Jul 2021 it is mandatory to connect via SSL and to authenticate with [SASL](https://freenode.net/kb/answer/sasl) on Freenode. This requires a registered account.__
 
 ### Why am I no longer owner/op of a channel that I used to be owner of?
 
@@ -54,7 +54,7 @@ you will receive a vhost in the format of
 <a name="migrate"/>
 ### Why were services not migrated?
 
-*Update 2021-06-24*, logs from `#freenode` (edited):
+*Update 24 Jun 2021*, logs from `#freenode` (edited):
 
     14:04:29Z   < gustaf> as to why? who knows
     14:04:42Z <@sorcerer> Because services and ircds were outdated
@@ -82,7 +82,7 @@ IRC network. Many FLOSS projects have decamped to other networks.
 Most projects should have information on their respective websites on
 where their official IRC networks are located.
 
-As of 2021-07-02, the following channels from the [top 20 list](https://netsplit.de/channels/?net=freenode) (and selected others) have official
+As of 2 Jul 2021, the following channels from the [top 20 list](https://netsplit.de/channels/?net=freenode) (and selected others) have official
 statements concerning their IRC channels.
 
 * `#archlinux` - [Arch IRC channels](https://wiki.archlinux.org/title/Arch_IRC_channels)
